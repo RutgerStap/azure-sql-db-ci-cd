@@ -70,6 +70,7 @@ Once done, in Settings/Secrets create a secret named `AZURE_SQL_CONNECTION_STRIN
 In the forked repository go to the "Actions" tab and enable GitHub Actions.
 
 Now push your repository. As an example you can make a small change to the README right on GitHub, or add a new - even empty - file. Commit and push the change. The GitHub Action will start.
+## Check if the push starts an action
 
 ## GitHub Action
 
